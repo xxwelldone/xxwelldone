@@ -1,8 +1,10 @@
 <h3>My Github Stats:</h3>
 <div>
   <div href="https://rickymarq.github.io">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xxwelldone&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=xxwelldone&theme&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="RickyMarq" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xxwelldone&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=xxwelldone&theme&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" 
+    alt="RickyMarq" />
+       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxwelldone&layout=compact&langs_count=7&theme=buefy"/>
 </p>
   
 </div>
@@ -18,6 +20,7 @@
 
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+
   
   
  
