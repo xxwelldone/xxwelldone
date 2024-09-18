@@ -1,11 +1,10 @@
 <h3>My Github Stats:</h3>
 <div>
-  <div href="https://rickymarq.github.io">
+  <div >
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xxwelldone&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=xxwelldone&theme&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" 
-    alt="RickyMarq" />
-       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxwelldone&layout=compact&langs_count=7&theme=buefy"/>
-</p>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxwelldone&layout=compact&langs_count=7&theme=buefy"/>
+
+
   
 </div>
 <h3 align="left"> Programming Language and Tools I use in my projects:</h3>
